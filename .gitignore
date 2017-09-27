@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/nest-cloud-nodejs/node_modules
+/nest-cloud-nodejs/bower_components
